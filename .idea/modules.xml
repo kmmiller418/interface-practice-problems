@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Interface Practice Problems.iml" filepath="$PROJECT_DIR$/.idea/Interface Practice Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part09-Part09_05.TacoBoxes/Part09_05.TacoBoxes.iml" filepath="$PROJECT_DIR$/part09-Part09_05.TacoBoxes/Part09_05.TacoBoxes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part09-Part09_06.InterfaceInABox/Part09_06.InterfaceInABox.iml" filepath="$PROJECT_DIR$/part09-Part09_06.InterfaceInABox/Part09_06.InterfaceInABox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part09-Part09_07.ListAsAMethodParameter/Part09_07.ListAsAMethodParameter.iml" filepath="$PROJECT_DIR$/part09-Part09_07.ListAsAMethodParameter/Part09_07.ListAsAMethodParameter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part09-Part09_08.MapAsAMethodParameter/Part09_08.MapAsAMethodParameter.iml" filepath="$PROJECT_DIR$/part09-Part09_08.MapAsAMethodParameter/Part09_08.MapAsAMethodParameter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part09-Part09_09.SetAsMethodParameter/Part09_09.SetAsAMethodParameter.iml" filepath="$PROJECT_DIR$/part09-Part09_09.SetAsMethodParameter/Part09_09.SetAsAMethodParameter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part09-Part09_10.OnlineShop/Part09_10.OnlineStore.iml" filepath="$PROJECT_DIR$/part09-Part09_10.OnlineShop/Part09_10.OnlineStore.iml" />
+    </modules>
+  </component>
+</project>
